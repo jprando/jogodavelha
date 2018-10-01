@@ -15,7 +15,7 @@ export const ListaPalavras = [
         palavra: 'amarela'
     },
     {
-        grupo: 'número',
+        grupo: 'numero',
         dica: 'não vale nada',
         palavra: 'zero'
     },
@@ -208,6 +208,166 @@ export const ListaPalavras = [
         grupo: 'saudação',
         dica: 'você diz quado vai em bora',
         palavra: 'tchau'
+    },
+    {
+        grupo: 'animal',
+        dica: 'come muita formiga',
+        palavra: 'tamandua'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: 'primeiro dia util',
+        palavra: 'segunda'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: '',
+        palavra: 'terça'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: '',
+        palavra: 'quarta'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: '',
+        palavra: 'quinta'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: 'ultimo dia util',
+        palavra: 'sexta'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: '',
+        palavra: 'sabado'
+    },
+    {
+        grupo: 'dia da semana',
+        dica: 'em ingles quer dizer dia do sol',
+        palavra: 'domingo'
+    },
+    {
+        grupo: 'lugar',
+        dica: 'as crianças sempre querem ir',
+        palavra: 'loja de brinquedo'
+    },
+    {
+        grupo: 'lugar',
+        dica: 'vai para comer',
+        palavra: 'restaurante'
+    },
+    {
+        grupo: 'lugar',
+        dica: '',
+        palavra: 'supermercado'
+    },
+    {
+        grupo: 'internet',
+        dica: 'videos, videos, videos e mais videos',
+        palavra: 'youtube'
+    },
+    {
+        grupo: 'internet',
+        dica: '',
+        palavra: 'facebook'
+    },
+    {
+        grupo: 'internet',
+        dica: 'fotos, fotos, fotos e mais fotos',
+        palavra: 'instagram'
+    },
+    {
+        grupo: 'internet',
+        dica: 'mensagem instantanea',
+        palavra: 'telegram'
+    },
+    {
+        grupo: 'internet',
+        dica: 'mensagem instantanea',
+        palavra: 'whatsapp'
+    },
+    {
+        grupo: 'historia infantil',
+        dica: 'a historia comeca com doces',
+        palavra: 'chapeuzinho vermelho'
+    },
+    {
+        grupo: 'historia infantil',
+        dica: 'tem um lobo mal na historia',
+        palavra: 'os tres porquinhos'
+    },
+    {
+        grupo: 'historia infantil',
+        dica: '',
+        palavra: 'raponzel'
+    },
+    {
+        grupo: 'historia infantil',
+        dica: '',
+        palavra: 'a bela e a fera'
+    },
+    {
+        grupo: 'historia infantil',
+        dica: 'maldição do sono',
+        palavra: 'a bela adormecida'
+    },
+    {
+        grupo: 'lugar',
+        dica: 'muita aguá e muito barulho',
+        palavra: 'cachoeira'
+    },
+    {
+        grupo: 'estação do ano',
+        dica: 'em ingles e spring',
+        palavra: 'primavera'
+    },
+    {
+        grupo: 'estação do ano',
+        dica: 'em ingles é summer',
+        palavra: 'verao'
+    },
+    {
+        grupo: 'estação do ano',
+        dica: 'em ingles é fall',
+        palavra: 'outono'
+    },
+    {
+        grupo: 'estação do ano',
+        dica: '',
+        palavra: 'inverno'
+    },
+    {
+        grupo: 'ferramenta',
+        dica: '',
+        palavra: 'martelo'
+    },
+    {
+        grupo: 'ferramenta',
+        dica: 'tem o nome de um animal',
+        palavra: 'macaco'
+    },
+    {
+        grupo: 'ferramenta',
+        dica: '',
+        palavra: 'alicate'
+    },
+    {
+        grupo: 'ferramenta',
+        dica: 'mulher do tesouro',
+        palavra: 'tesoura'
+    },
+    {
+        grupo: 'ferramenta',
+        dica: '',
+        palavra: 'canivete'
+    },
+    {
+        grupo: 'ferramenta',
+        dica: '',
+        palavra: 'furadeira'
     },
 
 ]
