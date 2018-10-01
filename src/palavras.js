@@ -167,7 +167,7 @@ export const ListaPalavras = [
     {
         grupo: 'lugar',
         dica: 'onde todas as crianças vão',
-        palavra: 'esola'
+        palavra: 'escola'
     },
     {
         grupo: 'lugar',
@@ -186,7 +186,7 @@ export const ListaPalavras = [
     },
     {
         grupo: 'programação',
-        dica: 'linguagem mais utilizado do mundo',
+        dica: 'linguagem de programação mais utilizado do mundo',
         palavra: 'javascript'
     },
     {
